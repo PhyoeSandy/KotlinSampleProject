@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinSampleProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_second_activity">Second Activity</string>
+    <string name="lbl_back">Back</string>
+    <string name="lbl_select_image">Select Image</string>
+    <string name="lbl_data">Data will Appear</string>
+    <string name="lbl_mapRoute">Go MapRoute</string>
+    <string name="lbl_go_second">Go Second</string>
+    <string name="lbl_hello">Hello World!</string>
+</resources>
